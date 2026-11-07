@@ -24,7 +24,7 @@
     "./hailbytes-password-strength.js"
   ],
   "scripts": {
-    "test": "node --test test/smoke.test.mjs"
+    "test": "node --test"
   },
   "keywords": [
     "password",
